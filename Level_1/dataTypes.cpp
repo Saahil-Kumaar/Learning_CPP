@@ -15,7 +15,7 @@ int main(){
     cout<<"a+b is: "<<a+b<<endl;
     cout<<"a-b is: "<<a-b<<endl;
     cout<<"a*b is: "<<a*b<<endl;
-    cout<<"a/b is: "<<(float)a/b<<endl<<endl;
+    cout<<"a/b is: "<<(float)a/b<<endl<<endl;    //typecasting
 //Size Of All Data-Types
     cout<<"Size of short: "<<sizeof(a)<<endl;
     cout<<"Size of integer: "<<sizeof(b)<<endl;
